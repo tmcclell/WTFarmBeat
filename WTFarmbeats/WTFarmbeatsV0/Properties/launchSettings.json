@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WTFarmbeatsV0": {
+      "commandName": "Project",
+      "commandLineArgs": "-C \"http://10.0.0.50:85/images/snapshot.jpg\" -U \"PauriBank\" -P \"eMb62erLYF^ojV\" -F \"LatestImage.jpg\" -A \"HostName=WTFFarmBeatHub.azure-devices.net;DeviceId=Bryns;SharedAccessKey=XduzLp9OsDZsF/sNiBpF44Vj5Vmqs9lQkjdNOoPaDpw=\" -M 5 -S 1"
+    }
+  }
+}
